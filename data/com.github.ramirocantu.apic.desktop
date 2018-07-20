@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=apic
+Comment=Another Pretty Input Configurator
+Icon=com.github.ramirocantu.apic
+Exec=com.github.ramirocantu.apic
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;
+Keywords=app;vala;

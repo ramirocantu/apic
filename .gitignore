@@ -1,0 +1,7 @@
+build/*
+debian/build/*
+debian/com.github.ramirocantu.apic.debhelper.log
+debian/com.github.ramirocantu.apic.substvars
+debian/com.github.ramirocantu.apic/
+debian/debhelper-build-stamp
+debian/files
