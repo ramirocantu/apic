@@ -40,9 +40,7 @@ namespace App {
         public Window (Gtk.Application app) {
             Object (
                 application: app,
-                icon_name: Constants.APP_ICON,
-                //resizable: false
-                resizable: false
+                icon_name: Constants.APP_ICON
             );
 
             get_style_context ().add_class ("rounded");
